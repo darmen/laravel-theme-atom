@@ -1,0 +1,11 @@
+{
+  "name": "laravel-theme",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "A Laravel theme dfor Atom.",
+  "repository": "https://github.com/darmen/laravel-theme-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
