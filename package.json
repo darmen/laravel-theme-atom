@@ -2,7 +2,7 @@
   "name": "laravel-theme",
   "theme": "syntax",
   "version": "0.1.0",
-  "description": "A Laravel theme dfor Atom.",
+  "description": "A Laravel theme for Atom.",
   "repository": "https://github.com/darmen/laravel-theme-atom",
   "license": "MIT",
   "engines": {
